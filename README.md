@@ -1,3 +1,1 @@
-# git-starter-tester
-
-A tester for the first stage of the Git challenge
+Moved to [https://github.com/codecrafters-io/build-your-own-git](https://github.com/codecrafters-io/build-your-own-git)
